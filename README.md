@@ -1,4 +1,5 @@
-﻿=== Sonic the Hedgehog Cursor Set For Linux ===
+# Sonic-cursor-hyprcursor
+ === Sonic the Hedgehog Cursor Set For Hyprcursor ===
 
 By: Virum64 (http://www.rw-designer.com/user/30267)
 
